@@ -1,0 +1,10 @@
+*.pyc
+.idea/*
+.idea/workspace.xml
+.DS_Store
+
+datasets/*
+output/*
+job_out/*
+job_err/*
+job_fig/*/*
